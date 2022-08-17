@@ -1,6 +1,6 @@
 # Hi there, I'm Shraddha! 👋🏻
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=purpleandnine&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shraddhapandey1795&show_icons=true&theme=radical" />
 
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
