@@ -1,5 +1,5 @@
 # Hi there, I'm Shraddha! 👋🏻
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhapandey1795&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhapandey1795" /> </p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shraddhapandey1795&show_icons=true&theme=radical" />
 
 
